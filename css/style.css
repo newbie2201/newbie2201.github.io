@@ -2009,3 +2009,7 @@ html[data-dark=true] img {
 .article-tag-list {
   padding-left: 0rem;
 }
+
+body {
+  font-family: "Microsoft YaHei", Arial, sans-serif;
+}
